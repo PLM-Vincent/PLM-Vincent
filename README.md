@@ -5,9 +5,6 @@
 <h3 align="center" style="font-family: Montserrat; font-weight: normal">A <span style="font-weight: bold;">computer science</span> student from Manila aiming to be a full - stack <span style="font-weight: bold">developer</span> and <span style="font-weight: bold">designer</span>.</h3>
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=PLM-Vincent.PLM-Vincent) ![GitHub followers](https://img.shields.io/github/followers/PLM-Vincent?style=social)       
-
-<hr >
-
 <h2> Hello, I'm <span style="color: #60A3D9">Vincent Ferrer</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> !</h2>
 
 I am a first year college student taking a Bachelor's degree in Computer Science at Pamantasan ng Lungsod ng Maynila. I have a passion in learning and improving my  coding skills, as well as my designing skills.
