@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: Montserrat; font-weight: normal"> Hi , I'm <span style="font-weight: bold">Vincent</span> <img src="https://d14eu5yur8w3te.cloudfront.net/api/v1/media/baseclub-media-uploads-production/f7e4b59f-7d1b-4a37-a8a6-cf43c3cc9f77.gif" width="40px"> </h1>
+<h1 align="center" style="font-family: Montserrat; font-weight: normal"> Hello  <span style="font-weight: bold; color:#60A3D9 ">World</span> ! <img src="https://d14eu5yur8w3te.cloudfront.net/api/v1/media/baseclub-media-uploads-production/f7e4b59f-7d1b-4a37-a8a6-cf43c3cc9f77.gif" width="40px"></h1>
 
 <p align="center"> <img src="banner.gif"/> </p> 
 
