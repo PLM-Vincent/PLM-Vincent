@@ -4,7 +4,7 @@
 
 <h3 align="center"> A computer science student from Manila aiming to be a full - stack developer and designer. </h3>
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=PLM-Vincent.PLM-Vincent) ![GitHub followers](https://img.shields.io/github/followers/PLM-Vincent?style=social)       
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=plm-vincent.plm-vincent) ![GitHub followers](https://img.shields.io/github/followers/plm-vincent?style=social)       
 <h2> Hello, I'm Vincent Ferrer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> !</h2>
 
 I am a first year college student taking a Bachelor's degree in Computer Science at Pamantasan ng Lungsod ng Maynila. I have a passion in learning and improving my  coding skills, as well as my designing skills.
