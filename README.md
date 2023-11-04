@@ -18,7 +18,7 @@ I discovered programming from my older brother because he was a data scientist. 
 ![](https://img.shields.io/badge/CSS_Framework-Boostrap-informational?style=flat&logo=bootstrap&logoColor=white&color=60A3D9) 
 
 ### 🎥 Designing Tools:
-![](https://img.shields.io/badge/Video-After_Effects-informational?style=flat&logo=adobeaftereffects&logoColor=white&color=60A3D9) ![](https://img.shields.io/badge/Images-Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=white&color=60A3D9)    
+![](https://img.shields.io/badge/Graphic_Design-Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=white&color=60A3D9) ![](https://img.shields.io/badge/Illustrations-Illustrator-informational?style=flat&logo=adobeillustrator&logoColor=white&color=60A3D9) ![](https://img.shields.io/badge/Graphic_Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=60A3D9) ![](https://img.shields.io/badge/Video-After_Effects-informational?style=flat&logo=adobeaftereffects&logoColor=white&color=60A3D9) ![](https://img.shields.io/badge/Video-Premiere_Pro-informational?style=flat&logo=adobepremierepro&logoColor=white&color=60A3D9)
 
 <h3 align="left">💬 Get in touch with me</h3>
 <p align="left">
