@@ -1,8 +1,11 @@
-<h1 align="center" style="font-family: Montserrat; font-weight: normal"> Hi , I'm Vincent <img src="https://d14eu5yur8w3te.cloudfront.net/api/v1/media/baseclub-media-uploads-production/f7e4b59f-7d1b-4a37-a8a6-cf43c3cc9f77.gif" width="40px"> </h1>
+<h1 align="center" style="font-family: Montserrat; font-weight: normal"> Hi , I'm Vincent ! <img src="https://media.tenor.com/-sL5lSwzQSkAAAAi/rolling-cute.gif" width="40px"> </h1>
 
 <p align="center"> <img src="banner.gif"/> </p> 
 
 <h3 align="center"> A computer science student from Manila aiming to be a full - stack developer and designer. </h3>
+
+<img src="https://cdnb.artstation.com/p/assets/images/images/015/889/927/original/mathieu-bertault-coloranim-perso-codage.gif" width="200px" style="display: block; margin: 0 auto;">
+
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=plm-vincent.plm-vincent) ![GitHub followers](https://img.shields.io/github/followers/plm-vincent?style=social)       
 <h2> Hello, I'm Vincent Ferrer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> !</h2>
