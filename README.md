@@ -5,7 +5,7 @@
 <h3 align="center"> A computer science student from Manila aiming to be a full - stack developer and designer. <img src="https://cdnb.artstation.com/p/assets/images/images/015/889/927/original/mathieu-bertault-coloranim-perso-codage.gif" width="200px"></h3>
 
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=plm-vincent.plm-vincent) ![GitHub followers](https://img.shields.io/github/followers/plm-vincent?style=social)       
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=vinnyy-ph.vinnyy-ph) ![GitHub followers](https://img.shields.io/github/followers/vinnyy-ph?style=social)       
 <h2> Hello, I'm Vincent Ferrer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> !</h2>
 
 I am a second year college student taking a Bachelor's degree in Computer Science at Pamantasan ng Lungsod ng Maynila. I have a passion in learning and improving my  coding skills, as well as my designing skills.
