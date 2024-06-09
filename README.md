@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="banner.gif"/> </p> 
 
-<h3 align="center"> A computer science student from Manila aiming to be a full - stack developer and designer. <img src="https://cdnb.artstation.com/p/assets/images/images/015/889/927/original/mathieu-bertault-coloranim-perso-codage.gif" width="200px"></h3>
+<h3 align="center"> A computer science student from Manila aiming to be a full - stack developer and designer. width="200px"></h3>
 
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=vinnyy-ph.vinnyy-ph) ![GitHub followers](https://img.shields.io/github/followers/vinnyy-ph?style=social)       
