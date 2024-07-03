@@ -14,6 +14,8 @@ I am a Computer Science major at Pamantasan ng Lungsod ng Maynila. I am a develo
 
 I've got a passion for designing, developing, and implementing tech projects, both on my own and with a team. I'm super excited to dive into a fast-paced tech environment and help achieve great things. Let's build something amazing together!
 
+Ideate 💡 → Build ⚙ → Launch 🚀
+
 ### 🔧 Programming Tools    :
 ![](https://img.shields.io/badge/Markup-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=60A3D9) ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=60A3D9) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=60A3D9) ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=60A3D9) ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=60A3D9) ![](https://img.shields.io/badge/Tracker-Git-informational?style=flat&logo=git&logoColor=white&color=60A3D9) 
 
