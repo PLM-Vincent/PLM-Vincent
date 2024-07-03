@@ -8,9 +8,11 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=vinnyy-ph.vinnyy-ph) ![GitHub followers](https://img.shields.io/github/followers/vinnyy-ph?style=social)       
 <h2> Hello, I'm Vincent Ferrer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> !</h2>
 
-I am a second year college student taking a Bachelor's degree in Computer Science at Pamantasan ng Lungsod ng Maynila. I have a passion in learning and improving my  coding skills, as well as my designing skills.
+Hey there! 👋
 
-I discovered programming from my older brother because he was a data scientist. I explored more about programming when I was bored during the lockdown because of Covid. I started learning Python first and I was hooked. I started learning more about programming and I found out that I really like it. I am currently learning web development and I am also learning how to design.
+I am a Computer Science major at Pamantasan ng Lungsod ng Maynila. I am a developer, and a designer.
+
+I've got a passion for designing, developing, and implementing tech projects, both on my own and with a team. I'm super excited to dive into a fast-paced tech environment and help achieve great things. Let's build something amazing together!
 
 ### 🔧 Programming Tools    :
 ![](https://img.shields.io/badge/Markup-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=60A3D9) ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=60A3D9) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=60A3D9) ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=60A3D9) ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=60A3D9) ![](https://img.shields.io/badge/Tracker-Git-informational?style=flat&logo=git&logoColor=white&color=60A3D9) 
