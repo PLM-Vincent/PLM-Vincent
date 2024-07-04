@@ -1,6 +1,6 @@
 <h1 align="center" style="font-family: Montserrat; font-weight: normal"> Hi , I'm Vincent ! <img src="https://media.tenor.com/-sL5lSwzQSkAAAAi/rolling-cute.gif" width="40px"> </h1>
 
-<p align="center"> <img src="banner.gif"/> </p> 
+<p align="center"> <img src="banner_upd.gif"/> </p> 
 
 <h3 align="center"> Ideate 💡 → Build ⚙ → Launch 🚀</h3>
 
